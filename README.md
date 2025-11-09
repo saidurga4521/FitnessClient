@@ -41,5 +41,5 @@ This project demonstrates clean UI structure, reusable components, and smooth se
 ---
 
 
-## 🧩 Project Structure
+
 
